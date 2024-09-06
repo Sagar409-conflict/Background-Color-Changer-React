@@ -7,7 +7,7 @@ This React project allows you to change the background color of your webpage wit
 - 🎨 Interactive Color Palette: A modern, easy-to-use color palette for seamless background changes.
 - ⚡ Instant Color Change: The background changes instantly upon selecting a color.
 
-### 🚀 Quick Start
+### 🚀 Quick Startt
 
 Get started with this project in just a few steps:
 
